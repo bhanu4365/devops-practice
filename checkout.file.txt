@@ -1,0 +1,2 @@
+this is used for checkout operation
+update changes tp local repository by creating new branch
